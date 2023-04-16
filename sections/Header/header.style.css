@@ -1,0 +1,14 @@
+.container{
+    width: 100%;
+    background-color: antiquewhite;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+}
+
+.elemntsLink{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+}
